@@ -1,0 +1,8 @@
+C:\Users\Brandon Vicinus\source\repos\UserInput\UserInput\bin\Debug\UserInput.exe.config
+C:\Users\Brandon Vicinus\source\repos\UserInput\UserInput\bin\Debug\UserInput.exe
+C:\Users\Brandon Vicinus\source\repos\UserInput\UserInput\bin\Debug\UserInput.pdb
+C:\Users\Brandon Vicinus\source\repos\UserInput\UserInput\obj\Debug\UserInput.Properties.Resources.resources
+C:\Users\Brandon Vicinus\source\repos\UserInput\UserInput\obj\Debug\UserInput.csproj.GenerateResource.Cache
+C:\Users\Brandon Vicinus\source\repos\UserInput\UserInput\obj\Debug\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\Brandon Vicinus\source\repos\UserInput\UserInput\obj\Debug\UserInput.exe
+C:\Users\Brandon Vicinus\source\repos\UserInput\UserInput\obj\Debug\UserInput.pdb
